@@ -19,12 +19,18 @@ This repo is part of my AZ-204 learning journey. Its goal is to create small, fo
 
 ---
 
-## Step-by-Step Procedure
+## Step-by-Step Procedure (20250712-am)
 
 ### 1. Create a Storage Account
 
-- Use the Azure Portal or CLI.
-- Example resource name: `az204blobdemo<unique>`
+- Use the Azure Portal.
+- Example resource name: `az-204-blob-with-event-grid-20250712
+- Storage account name: storageacctforblobs
+- Location: westus
+- Replication: LRS
+- Kind: StoregeV2 (general purpos3 v2)
+- subscription: mine
+- `
 
 ### 2. Enable Event Grid Integration
 
