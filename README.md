@@ -32,7 +32,7 @@ This repo is part of my AZ-204 learning journey. Its goal is to create small, fo
 - subscription: mine
 - `
 
-### 2. Enable Event Grid Integration
+### 2. Enable Event Grid Integration (20250712 am - noop)
 
 - Ensure the Storage Account is configured to emit events to Event Grid.
 - No manual action is needed for System Topics; Azure creates these automatically.
